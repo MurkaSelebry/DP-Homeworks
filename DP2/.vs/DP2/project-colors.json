@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86a71226-5f47-498d-9736-7ce119aac59f": {
+      "ProjectGuid": "86a71226-5f47-498d-9736-7ce119aac59f",
+      "DisplayName": "DP2",
+      "ColorIndex": 0
+    },
+    "6c3670d6-9d1a-41ff-b0b7-b8cf6c761ba4": {
+      "ProjectGuid": "6c3670d6-9d1a-41ff-b0b7-b8cf6c761ba4",
+      "DisplayName": "DP2_2",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

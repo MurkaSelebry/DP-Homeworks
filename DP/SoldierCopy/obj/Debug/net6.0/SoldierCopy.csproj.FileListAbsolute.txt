@@ -1,0 +1,15 @@
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\bin\Debug\net6.0\SoldierCopy.exe
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\bin\Debug\net6.0\SoldierCopy.deps.json
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\bin\Debug\net6.0\SoldierCopy.runtimeconfig.json
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\bin\Debug\net6.0\SoldierCopy.dll
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\bin\Debug\net6.0\ref\SoldierCopy.dll
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\bin\Debug\net6.0\SoldierCopy.pdb
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\SoldierCopy.csproj.AssemblyReference.cache
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\SoldierCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\SoldierCopy.AssemblyInfoInputs.cache
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\SoldierCopy.AssemblyInfo.cs
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\SoldierCopy.csproj.CoreCompileInputs.cache
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\SoldierCopy.dll
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\ref\SoldierCopy.dll
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\SoldierCopy.pdb
+C:\Users\murad\Desktop\RezvanPVO113\DP\SoldierCopy\obj\Debug\net6.0\SoldierCopy.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5df46f40-2231-4c57-a272-151ae119508a": {
+      "ProjectGuid": "5df46f40-2231-4c57-a272-151ae119508a",
+      "DisplayName": "DP",
+      "ColorIndex": 0
+    },
+    "2327781f-1edc-44e6-a174-40506845ddc3": {
+      "ProjectGuid": "2327781f-1edc-44e6-a174-40506845ddc3",
+      "DisplayName": "SoldierCopy",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
