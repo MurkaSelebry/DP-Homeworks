@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace Interpreter.Statements
 {
-    internal class WhileStatement
+    class WhileStatement : IStatement
     {
+        private IExpr condition;
+        private IStatement body;
+
+        public WhileStatement(IExpr condition, IStatement body)
+        {
+            this.condition = condition;
+            this.body = body;
+        }
+
+        public void Execute()
+        {
+            while (condition.Calculate() != 0)
+            {
+                body.Execute();
+            }
+        }
     }
 }

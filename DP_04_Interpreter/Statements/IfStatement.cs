@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace Interpreter.Statements
 {
-    internal class IfStatement
+    class IfStatement : IStatement
     {
+        private IExpr condition;
+        private IStatement ifYes;
+
+        public IfStatement(IExpr condition, IStatement ifYes)
+        {
+            this.condition = condition;
+            this.ifYes = ifYes;
+        }
+
+        public void Execute()
+        {
+            if (condition.Calculate() != 0)
+                ifYes.Execute();
+        }
     }
 }

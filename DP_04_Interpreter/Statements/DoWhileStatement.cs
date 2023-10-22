@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace Interpreter.Statements
 {
-    internal class DoWhileStatement
+    class DoWhileStatement : IStatement
     {
+        private IExpr condition;
+        private IStatement body;
+
+        public DoWhileStatement(IExpr condition, IStatement body)
+        {
+            this.condition = condition;
+            this.body = body;
+        }
+
+        public void Execute()
+        {
+            do
+            {
+                body.Execute();
+            } while (condition.Calculate() != 0);
+        }
     }
 }

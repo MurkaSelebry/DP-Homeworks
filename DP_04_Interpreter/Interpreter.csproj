@@ -54,6 +54,9 @@
     <Compile Include="Exprs\LessThanExpr.cs" />
     <Compile Include="Statements\Block.cs" />
     <Compile Include="InterpreterMain.cs" />
+    <Compile Include="Statements\DoWhileStatement.cs" />
+    <Compile Include="Statements\ForStatement.cs" />
+    <Compile Include="Statements\IfStatement.cs" />
     <Compile Include="Statements\IStatement.cs" />
     <Compile Include="Exprs\MinusExpr.cs" />
     <Compile Include="Exprs\MultiplyExpr.cs" />
@@ -64,6 +67,7 @@
     <Compile Include="Statements\ExprStatement.cs" />
     <Compile Include="Statements\IfElseStatement.cs" />
     <Compile Include="Statements\PrintStatement.cs" />
+    <Compile Include="Statements\WhileStatement.cs" />
     <Compile Include="Variables.cs" />
   </ItemGroup>
   <ItemGroup>
